@@ -8,3 +8,5 @@
   - [Website Demo](https://mahmoud1yaser.github.io/classcentral.demo/)
     - navigate through the right-bottom footer links in `index.html`.
     
+## Source Code
+- [GitHubRepo-PyTranslateScraper](https://github.com/mahmoud1yaser/PyTranslateScraper)
